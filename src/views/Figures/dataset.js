@@ -1,52 +1,52 @@
 export default {
     data:[
         {
-            name:'Казань',
+            city:'Казань',
             population:1169000,
             lvl:10.0
         },
         {
-            name:'Грозный',
+            city:'Грозный',
             population:276000,
             lvl:8.3
         },
         {
-            name:'Тюмень',
+            city:'Тюмень',
             population:621000,
             lvl:8.2
         },
         {
-            name:'Краснодар',
+            city:'Краснодар',
             population:774000,
             lvl:8.0
         },
         {
-            name:'Москва',
+            city:'Москва',
             population:12000000,
             lvl:7.1
         },
         {
-            name:'Санкт-Петербург',
+            city:'Санкт-Петербург',
             population:5000000,
             lvl:7.0
         },
         {
-            name:'Иркутск',
+            city:'Иркутск',
             population:602000,
             lvl:6.5
         },
         {
-            name:'Севастополь',
+            city:'Севастополь',
             population:341000,
             lvl:6.1
         },
         {
-            name:'Уфа',
+            city:'Уфа',
             population:1000000,
             lvl:5.0
         },
         {
-            name:'Кемерово',
+            city:'Кемерово',
             population:538000,
             lvl:3.2
         }
